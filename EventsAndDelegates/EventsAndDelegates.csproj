@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="VideoEventArgs.cs" />
+    <Compile Include="Mail.cs" />
+    <Compile Include="Text.cs" />
+    <Compile Include="Video.cs" />
+    <Compile Include="MessageService.cs" />
+    <Compile Include="MailService.cs" />
+    <Compile Include="VideoEncoder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
